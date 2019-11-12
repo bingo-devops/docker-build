@@ -1,0 +1,1 @@
+FROM bingodevops/fluentd-elasticsearch:1.22
